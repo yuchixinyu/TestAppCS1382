@@ -1,0 +1,7 @@
+C:\Users\Olivia\source\repos\TestAppCS1382\TestAppCS1382\obj\Debug\TestAppCS1382.csproj.AssemblyReference.cache
+C:\Users\Olivia\source\repos\TestAppCS1382\TestAppCS1382\obj\Debug\TestAppCS1382.csproj.CoreCompileInputs.cache
+C:\Users\Olivia\source\repos\TestAppCS1382\TestAppCS1382\bin\Debug\TestAppCS1382.exe.config
+C:\Users\Olivia\source\repos\TestAppCS1382\TestAppCS1382\bin\Debug\TestAppCS1382.exe
+C:\Users\Olivia\source\repos\TestAppCS1382\TestAppCS1382\bin\Debug\TestAppCS1382.pdb
+C:\Users\Olivia\source\repos\TestAppCS1382\TestAppCS1382\obj\Debug\TestAppCS1382.exe
+C:\Users\Olivia\source\repos\TestAppCS1382\TestAppCS1382\obj\Debug\TestAppCS1382.pdb
